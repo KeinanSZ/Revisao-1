@@ -1,6 +1,5 @@
 ==========================
-LISTA DE EXERCICIOS DE PYTHON
-==========================
+LISTA DE EXERCICIOS DE PYTHON ==========================
 => REVISÃO
-=> LISTA DE 1 A 7
+=> LISTA DE 1 A 3
  
